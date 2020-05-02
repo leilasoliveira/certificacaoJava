@@ -1,0 +1,20 @@
+1) A; OK
+2) D; OK
+3) B; OK
+4) A, B, C; Apenas B e C. A letra A está incorreta porque a herança não tem efeito sobre o agendamento do processador.
+5) B; Além da letra B (Superclasse), a letra C (Classe base) está correta. A classe que é herdada é a superclasse ou a classe base da classe que a está estendendo.
+6) C; OK
+7) A; OK
+8) A, C, E; Apenas A e E. A letra C está incorreta pelo mesmo motivo da questão número 5.
+9) C; OK
+10) C; OK
+11) B; OK
+12) B; OK
+13) A; OK
+14) B; OK
+15) A, D, E; A letra A está incorreta porque esses modificadores não podem ser usados em classes. A letra C está correta além das letras D e E, porque podem ser usadas em construtores também.
+16) B; OK
+17) B; OK
+18) D; OK
+19) B; OK
+20) B; A letra A está correta. Uma interface pode herdar outras interfaces. Apenas classes implementam interfaces. No diagrama UML uma seta traçada significa que uma classe implementa outra; se a seta for contínua, significa que uma classe estende outra.
