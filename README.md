@@ -1,8 +1,10 @@
 # certificacaoJava
 
+Projeto com notas e código fonte dos estudos para a Certificação OCA Java SE Programmer I.
+
 ## Execução de códigos empacotados
 
-- Para executar código empacotado (package), fazer o seguinte:
+Para executar código empacotado (package), fazer o seguinte:
 
 - Compilar todas as classes que não dependem de ninguém primeiro e coloque numa pasta de classes (usando código fonte do cap07):
 
@@ -13,9 +15,13 @@
 - Depois compilar as demais classes que dependem do bytecode gerado:
 
 `javac -d classes -cp classes\; MapleTree.java`
+
 `javac -d classes -cp classes\; Tulip.java`
+
 `javac -d classes -cp classes\; Rose.java`
+
 `javac -d classes -cp classes\; Simulator.java`
+
 
 * O parâmetro `-cp` define o classpath, ou seja, onde estão os arquivos bytecode que a classe a ser compilada depende para compilar.
 
@@ -25,4 +31,4 @@
 
 * O parâmetro `-cp` define o classpath, ou seja, onde estão os arquivos bytecode que a classe a ser executada depende para rodar.
 
-E voílá! :D
+E voílá! :smile:
