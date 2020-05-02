@@ -6,7 +6,7 @@ Projeto com notas e código fonte dos estudos para a Certificação OCA Java SE 
 
 Para executar código empacotado (package), fazer o seguinte:
 
-Compilar todas as classes que não dependem de ninguém primeiro e coloque numa pasta de classes (usando código fonte do cap07):
+Compilar todas as classes que não dependem de ninguém primeiro e coloque numa pasta de classes (usando código fonte do [cap07](codigofonte/cap07):
 
 ```java
 javac -d classes Plant.java
