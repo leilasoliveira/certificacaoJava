@@ -12,7 +12,7 @@ Projeto com notas e código fonte dos estudos para a Certificação OCA Java SE 
 - **Capítulo 6 -** Programação com arrays
 - [**Capítulo 7 -** Herança de classes](notas/cap07)
 - [**Capítulo 8 -** Polimorfismo e coerções](notas/cap08)
-- **Capítulo 9 -** Tratamento de exceções
+- [**Capítulo 9 -** Tratamento de exceções](notas/cap09)
 - **Capítulo 10 -** Programação com a API de data e hora
 - **Capítulo 11 -** Expressões lambda
 
