@@ -2,11 +2,25 @@
 
 Projeto com notas e código fonte dos estudos para a Certificação OCA Java SE Programmer I.
 
+## Índice de notas de estudo
+
+- **Capítulo 1 -** Empacotamento, compilação e interpretação de código Java
+- **Capítulo 2 -** Programação com instruções Java
+- **Capítulo 3 -** Programação com operadores e strings Java
+- **Capítulo 4 -** Classes e variáveis básicas
+- **Capítulo 5 -** Métodos e escopo de variáveis
+- **Capítulo 6 -** Programação com arrays
+- [**Capítulo 7 -** Herança de classes](notas/cap07)
+- [**Capítulo 8 -** Polimorfismo e coerções](notas/cap08)
+- **Capítulo 9 -** Tratamento de exceções
+- **Capítulo 10 -** Programação com a API de data e hora
+- **Capítulo 11 -** Expressões lambda
+
 ## Execução de códigos empacotados
 
 Para executar código empacotado (package), fazer o seguinte:
 
-Compilar todas as classes que não dependem de ninguém primeiro e coloque numa pasta de classes (usando código fonte do [cap07](codigofonte/cap07):
+Compilar todas as classes que não dependem de ninguém primeiro e coloque numa pasta de classes (usando código fonte do [cap07](codigofonte/cap07)):
 
 ```java
 javac -d classes Plant.java
