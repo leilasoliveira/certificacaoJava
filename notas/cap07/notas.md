@@ -1,6 +1,6 @@
 # Capítulo 7 - Herança de Classes
 
-Código fonte [aqui](codigofonte/cap07).
+Código fonte [aqui](../../codigofonte/cap07).
 
  - Herança de classes concretas e abstratas.
 
