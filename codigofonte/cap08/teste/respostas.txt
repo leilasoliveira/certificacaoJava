@@ -1,0 +1,15 @@
+1) b OK
+2) b OK
+3) b, c, d Apenas b, d. C está incorreta por que o obscurecimento de código não tem relação com o polimorfismo.
+4) a OK
+5) b Errado. Está incorreta porque nada é herdado quando uma interface é implementada.
+6) c OK
+7) b Errado. Aqui foi falta de atenção no código! =D
+8) a OK
+9) b OK
+10) b OK
+11) a OK
+12) b Errado. Aqui o livro mostrou o mesmo código 2 vezes de forma incorreta.
+13) a, d OK
+14) c Errado. A letra b está correta. A letra c está incorreta por polimorfismo não altera quando uma variável precisa sofrer coerção. 
+15) c OK
