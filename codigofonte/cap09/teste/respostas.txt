@@ -1,0 +1,17 @@
+1) b (errada, a classe Error tem menos subclasses)
+2) a OK
+3) c OK
+4) c OK
+5) a, c, d (errada, a, b, d são as corretas)
+6) a, c (errada, apenas letra a está correta, a letra c lancará ClassCastException)
+7) b, c (todas as alternativas exceto a letra D estão corretas, pois não existe classe Assertion em Java)
+8) b OK
+9) b OK
+10) a OK
+11) d OK
+12) a, c OK
+13) a OK
+14) b, c (faltou a letra A, pois todas são subclasses da classe VirtualMachineError)
+15) b OK
+16) a (questão que parece ter haver com o assunto, mas era pegadinha. a letra D está correta, ocorre erro de compilação)
+17) c OK
