@@ -1,6 +1,6 @@
 # Capítulo 8 - Polimorfismo e coerções
 
-Código fonte [aqui](codigofonte/cap08).
+Código fonte [aqui](../../codigofonte/cap08).
 
 ## Polimorfismo
 
